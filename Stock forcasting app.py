@@ -20,7 +20,8 @@ for month, planned_sales in monthly_sales.items():
         initial_stock += quantity_produced - planned_sales
 
 
-
+# Author
+# Samuel Aseye Amedofu
 
 
 
